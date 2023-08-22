@@ -1,0 +1,6 @@
+CarID,Make,Model,Year,Color,Price
+1,Toyota,Camry,2020,Blue,25000.00
+2,Honda,Civic,2019,Red,22000.00
+3,Ford,Mustang,2022,Black,40000.00
+4,Chevrolet,Corvette,2021,Yellow,60000.00
+5,Tesla,"Model S",2023,White,80000.00
